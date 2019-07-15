@@ -1,5 +1,9 @@
 # PHPUnitBehat
 
+> This is a fork of the original version 
+> https://github.com/jonathanjfshaw/phpunitbehat 
+> to enable support for PHPUnit 7.
+
 PHPUnitBehat provides traits that allow developers to create tests that combine 
 the power & flexibility of  PHPUnit with the readability of Behat.
 
